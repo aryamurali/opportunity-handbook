@@ -30,7 +30,7 @@
     * [Best Practices](about/common-application-questions-and-guidance/best-practices.md)
     * [Essays: SOP and others](about/common-application-questions-and-guidance/essays-sop-and-others.md)
     * [Recommendation Letters](about/common-application-questions-and-guidance/recommendation-letters.md)
-    * [Video Tesitmonial](about/common-application-questions-and-guidance/video-tesitmonial.md)
+    * [Video Testimonial](about/common-application-questions-and-guidance/video-tesitmonial.md)
     * [Resume](about/common-application-questions-and-guidance/resume.md)
     * [File managing made easy](about/common-application-questions-and-guidance/file-managing-made-easy.md)
   * [Best Practices on Applying to Opportunities](about/best-practices-on-applying-to-opportunities.md)

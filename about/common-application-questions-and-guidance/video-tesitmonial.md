@@ -1,4 +1,4 @@
-# Video Tesitmonial
+# Video Testimonial
 
 Most applications have a particular topic upon which you will have to create your video. It could be about. The topics may be quite similar to the essay questions also.
 
